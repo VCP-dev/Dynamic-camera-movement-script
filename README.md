@@ -1,5 +1,5 @@
 # Dynamic-camera-movement-script
-A script for moving your camera dynamically based on positions of objects
+A script for moving the camera dynamically based on positions of objects in Unity
 
 Eg :
 
